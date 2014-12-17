@@ -1,8 +1,7 @@
 Presentations
 =============
 
-A centralized location for all presentations I've given at various conferences. Full disclosure: some of these talks were prepared on very *very* short notice.
-
+A centralized location for all presentations I've given at various conferences.  
 Feel free to contact me with any questions or comments.
 
 ### Talk Listing
