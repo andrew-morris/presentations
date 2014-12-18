@@ -6,34 +6,36 @@ Feel free to contact me with any questions or comments.
 
 # Talk Listing
 
-## Weekend Malware Research  
-Internal Event,
+### Weekend Malware Research  
+Internal Event  
 Northern Virginia,  2012  
+[slides](https://github.com/andrew-morris/presentations/blob/master/Weekend%20Malware%20Research.pptx)
 
-## Ruining Security Models with SSH
+### Ruining Security Models with SSH
 Shmoocon Epilogue  
 Reston, Virginia, 2013    
-[video](https://www.youtube.com/watch?v=9-dGIhiGYBI)
+[video](https://www.youtube.com/watch?v=9-dGIhiGYBI) | [slides](https://github.com/andrew-morris/presentations/blob/master/Ruining%20Security%20Models%20with%20SSH.pptx)
 
-##SSH for Pentesters  
+###SSH for Pentesters  
 Unallocated Space  
 Severn, Maryland, 2013  
+[slides](https://github.com/andrew-morris/presentations/blob/master/SSH%20for%20Pentesters.pptx)
 
-##Waging Cyber War on an Entire City  
+###Waging Cyber War on an Entire City  
 BSides Charleston   
 Charleston, South Carolina, 2013  
 [video](https://www.youtube.com/watch?v=KSNonFBVpNQ)  
 
-##Ballin on a Budget: Tracking Chinese Threat Actors on the Cheap  
+###Ballin on a Budget: Tracking Chinese Threat Actors on the Cheap  
 iSEC Partners Open Forum  
 Brooklyn, New York, 2014  
 
-##Ballin on a Budget: Tracking Chinese Threat Actors on the Cheap
+###Ballin on a Budget: Tracking Chinese Threat Actors on the Cheap
 BSides Charleston   
 Charleston, South Carolina, 2014  
-[video](https://www.youtube.com/watch?v=CoTZXieXc_s)
+[video](https://www.youtube.com/watch?v=CoTZXieXc_s) | [slides](https://github.com/andrew-morris/presentations/blob/master/Ballin%20on%20a%20Budget.pdf)
 
-### Contact
+## Contact
 
 Email: andrew@morris.guru  
 Twitter: andrew___morris  
