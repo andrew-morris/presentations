@@ -38,6 +38,6 @@ Charleston, South Carolina, 2014
 ## Contact
 
 Email: andrew@morris.guru  
-Twitter: andrew___morris  
-Blog: morris.guru
+Twitter: [@andrew___morris](https://twitter.com/andrew___morris)  
+Blog: [morris.guru](http://morris.guru)
 
