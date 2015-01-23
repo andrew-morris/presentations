@@ -38,7 +38,7 @@ Charleston, South Carolina, 2014
 ###No Budget Threat Intelligence: Tracking Malware Campaigns on the Cheap
 Shmoocon  
 Washington DC, 2015  
-[slides](https://github.com/andrew-morris/presentations/blob/master/No_budget_threat_intel_shmoocon.pdf?raw=true)
+[video](https://www.youtube.com/watch?v=DKfWukYffsE) | [slides](https://github.com/andrew-morris/presentations/blob/master/No_budget_threat_intel_shmoocon.pdf?raw=true)
 
 ## Contact
 
