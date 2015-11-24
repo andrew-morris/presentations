@@ -45,9 +45,9 @@ Washington DC, 2015
 [video](https://www.youtube.com/watch?v=DKfWukYffsE) | [slides](https://github.com/andrew-morris/presentations/blob/master/No_budget_threat_intel_shmoocon.pdf?raw=true)
 
 ### Sonification of Real-time Port Scan Data
-Data Mining and Cyber Security @ Endgame
-San Francisco, CA, 2015
-[video](https://www.youtube.com/watch?v=bzn3fkAgkM4)
+Data Mining and Cyber Security @ Endgame  
+San Francisco, CA, 2015  
+[video](https://www.youtube.com/watch?v=bzn3fkAgkM4)  
 
 ## Contact
 
