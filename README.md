@@ -52,7 +52,7 @@ San Francisco, CA, 2015
 ### Flaying the Blockchain Ledger for Fun, Profit, and Hip Hop
 Security BSides LV  
 Las Vegas, NV, 2016  
-[slides](http://www.slideshare.net/andrewwantsyou/flaying-the-blockchain-ledger-for-fun-profit-and-hip-hop)
+[video](https://www.youtube.com/watch?v=6UAZ4JVKSu0) | [slides](http://www.slideshare.net/andrewwantsyou/flaying-the-blockchain-ledger-for-fun-profit-and-hip-hop)
 
 ## Contact
 
