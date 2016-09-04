@@ -19,7 +19,7 @@ Reston, Virginia, 2013
 ### SSH for Pentesters  
 Unallocated Space  
 Severn, Maryland, 2013  
-[slides](https://github.com/andrew-morris/presentations/blob/master/SSH%20for%20Pentesters.pptx)
+[video](https://www.youtube.com/watch?v=9-dGIhiGYBI) | [slides](https://github.com/andrew-morris/presentations/blob/master/SSH%20for%20Pentesters.pptx)
 
 ### Waging Cyber War on an Entire City  
 BSides Charleston   
@@ -29,6 +29,8 @@ Charleston, South Carolina, 2013
 ### Ballin on a Budget: Tracking Chinese Threat Actors on the Cheap  
 iSEC Partners Open Forum  
 Brooklyn, New York, 2014  
+
+[video](https://www.youtube.com/watch?v=KSNonFBVpNQ)
 
 ### Analyzing C2 Communications for Target Tracking
 NYU Poly
