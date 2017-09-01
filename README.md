@@ -58,7 +58,7 @@ Las Vegas, NV, 2016
 
 ## Contact
 
-Email: andrew@morris.guru  
+Email: andrew@morris.sc  
 Twitter: [@andrew___morris](https://twitter.com/andrew___morris)  
-Blog: [morris.guru](http://morris.guru)
+Blog: [morris.sc](https://morris.sc)
 
